@@ -1,0 +1,6 @@
+F:\visual studio 2013\Projects\bing\bing\bin\Debug\bing.exe.config
+F:\visual studio 2013\Projects\bing\bing\bin\Debug\bing.exe
+F:\visual studio 2013\Projects\bing\bing\bin\Debug\bing.pdb
+F:\visual studio 2013\Projects\bing\bing\obj\Debug\bing.exe
+F:\visual studio 2013\Projects\bing\bing\obj\Debug\bing.pdb
+F:\visual studio 2013\Projects\bing\bing\obj\Debug\bing.csprojResolveAssemblyReference.cache
